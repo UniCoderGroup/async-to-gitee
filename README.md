@@ -1,2 +1,2 @@
-# async-to-gitee
-The auto asyncer to Gitee
+# sync-to-gitee
+The auto syncer to Gitee
